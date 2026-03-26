@@ -41,5 +41,6 @@ UI and UX
 * **Anjelo Benedict Arnaez**
 * **Simone Nacionales**
 
+---
 
 > **Note:** This project is for educational purposes only.
