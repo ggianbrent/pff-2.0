@@ -29,19 +29,17 @@ This project is no longer worked on. Some features may be broken but everything 
 
 ---
 
-# ------------------------------------
-#    The Team: FantasticFurries 🐶
-# ------------------------------------
+## The Team: FantasticFurries 🐶
 
-| Front-end and Back-end Developers |
-**Gian Brent Maligaya**
-**Dave Espinol**
-**John David Bomediano**
+Front-end and Back-end Developers
+* **Gian Brent Maligaya**
+* **Dave Espinol**
+* **John David Bomediano**
 
-| UI |
-**Shareen Bola**
-**Anjelo Benedict Arnaez**
-**Simone Nacionales**
+UI and UX
+* **Shareen Bola**
+* **Anjelo Benedict Arnaez**
+* **Simone Nacionales**
 
 
 > **Note:** This project is for educational purposes only.
